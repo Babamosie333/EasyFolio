@@ -22,3 +22,15 @@
 - **💼 Project Showcase** - Hover effects & links
 
 ## 🛠️ Tech Stack
+
+
+
+## 🚀 Quick Start
+```bash
+# 1. Fork/Clone
+git clone https://github.com/Babamosie333/EasyFolio.git
+cd EasyFolio
+
+# 2. Open index.html in VS Code + Live Server
+# 3. Customize your info/projects
+# 4. Deploy to GitHub Pages/Netlify/Vercel
